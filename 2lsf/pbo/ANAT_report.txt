@@ -1,0 +1,17 @@
+Detrend of .\pbo\ANAT Up 
+Up WRMS:    4.26 mm     NRMS:  1.58     #:  4024 of  4155 data
+Up T =  2015.0189 Postion            -51.03 +-   0.36 mm   
+Up Rate                                1.21 +-   0.05 mm/yr
+Up Period   1.00 Cos                  -0.30 +-   0.10 mm   
+Up Period   1.00 Sin                  -4.85 +-   0.10 mm   
+Up Period   1.00 amplitude             4.86 +-   0.10 mm   
+Up Period   1.00 phase                0.010 +-  0.003 year   
+Up Period   0.50 Cos                  -0.38 +-   0.10 mm   
+Up Period   0.50 Sin                   0.46 +-   0.10 mm   
+Up Period   0.50 amplitude             0.60 +-   0.10 mm   
+Up Period   0.50 phase               -0.108 +-  0.025 year   
+Up Break  2010.1081                   0.61 +-   0.33 mm
+Up Break  2011.3781                   8.52 +-   0.31 mm
+Up Break  2014.5081                 102.01 +-   0.29 mm
+Up Break  2020.2459                   4.29 +-   0.37 mm
+ 
