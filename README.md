@@ -2,7 +2,7 @@
 lsf is designed for extracting hydrological loading displacement form GNSS vertical position time series analysis based on the least squares fitting method.
 
 
-# Attribution:
+# Attribution
 lsf is designed for extracting hydrological loading displacement form GNSS vertical position time series analysis based on the least squares fitting method. It is a modified version of Tsview software (http://www-gpsg.mit.edu/~tah/GGMatlab/#_tsview) (Herring, 2003)) and is suitable for batch processing of GNSS time series.
 
 # Preparing some relevant files
@@ -12,7 +12,7 @@ When implementing this software, readers need to prepare some relevant files:
 3. NTAL (*.ntal), NTOL (*.ntol) and GIA (*.gia) files. obtain non-tidal atmospheric and oceanic loading displacements from the German Center for Geoscience (http://esmdata.gfz-potsdam.de:8080/repository) and GIA effects from the webpage (https://www.atmosp.physics.utoronto.ca/~peltier/data.php).
 
 
-# To acknowledge use of this software, please cite the following publication:
+# To acknowledge use of this software, please cite the following publication
 Herring, T. (2003). MATLAB Tools for viewing GPS velocities and time series. GPS Solutions, 7, 194–199. doi: 10.1007/s10291-003-0068-0
 Jiang Z., Hsu Y., Yuan L., Cheng S., Feng W., Tang M., Yang X, 2022. Insights into hydrological drought characteristics using GNSS-inferred large-scale terrestrial water storage deficits, Earth and Planetary Science Letters, 578, 117294. doi: 10.1016/j.epsl.2021.117294
 Jiang Z., Hsu Y., Yuan L., Tang M., Yang X., Yang X., 2022. Hydrological drought characterization based on GNSS imaging of vertical crustal deformation across the contiguous United States. Science of the Total Environment, 823, 153663. doi: 10.1016/j.scitotenv.2022.15366
