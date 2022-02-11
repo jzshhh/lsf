@@ -1,0 +1,13 @@
+Detrend of .\pbo\AHID Up 
+Up WRMS:    4.33 mm     NRMS:  1.58     #:  5281 of  5286 data
+Up T =  2013.3413 Postion              5.98 +-   0.06 mm   
+Up Rate                               -0.04 +-   0.01 mm/yr
+Up Period   1.00 Cos                   0.89 +-   0.08 mm   
+Up Period   1.00 Sin                  -4.45 +-   0.08 mm   
+Up Period   1.00 amplitude             4.53 +-   0.08 mm   
+Up Period   1.00 phase               -0.031 +-  0.003 year   
+Up Period   0.50 Cos                  -0.42 +-   0.08 mm   
+Up Period   0.50 Sin                   0.51 +-   0.08 mm   
+Up Period   0.50 amplitude             0.67 +-   0.08 mm   
+Up Period   0.50 phase               -0.110 +-  0.020 year   
+ 
