@@ -12,7 +12,7 @@ When implementing this software, readers need to prepare some relevant files:
 3. NTAL (*.ntal), NTOL (*.ntol) and GIA (*.gia) files. obtain non-tidal atmospheric and oceanic loading displacements from the German Center for Geoscience (http://esmdata.gfz-potsdam.de:8080/repository) and GIA effects from the webpage (https://www.atmosp.physics.utoronto.ca/~peltier/data.php).
 
 
-# To acknowledge use of this software, please cite the following publication
+# To acknowledge use of this software, please cite some of following publications
 Herring, T. (2003). MATLAB Tools for viewing GPS velocities and time series. GPS Solutions, 7, 194–199. doi: 10.1007/s10291-003-0068-0
 
 Jiang Z., Hsu Y., Yuan L., Cheng S., Feng W., Tang M., Yang X, 2022. Insights into hydrological drought characteristics using GNSS-inferred large-scale terrestrial water storage deficits, Earth and Planetary Science Letters, 578, 117294. doi: 10.1016/j.epsl.2021.117294
